@@ -1,3 +1,2 @@
-compilador seleccionado: Mingw-w64
-versión:6.2
-versión de C++ que compila: 
+compilador seleccionado: Mingw-w64 (Visual Studio 2022, v143)  
+versión de C++ que compila: c++14
